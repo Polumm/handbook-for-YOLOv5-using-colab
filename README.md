@@ -21,4 +21,4 @@ It provides a new method for training the Yolov5 model and performing inference 
 
 Google Drive: https://drive.google.com/drive/folders/1MsDYTbJbbrMvp3hHo-JhKHpxZgMH5UtM?usp=sharing 
 
-Baidu Cloud: Link: https://pan.baidu.com/s/18EeHdBciKigwXNffZCrTsQ?pwd=6666
+Baidu Cloud: https://pan.baidu.com/s/1ZRz5ccsGD5Y7EZxdZoiK8g?pwd=6666
